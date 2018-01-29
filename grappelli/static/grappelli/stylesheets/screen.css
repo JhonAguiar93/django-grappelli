@@ -6842,7 +6842,7 @@ h1#grp-admin-title {
     float: right;
     font-weight: bold;
     margin: 0 -10px 0 0;
-    border-left: 1px ridge #309bbf;
+    border-left: 1px solid #090909
 }
 
 #grp-user-tools>li {
@@ -6853,7 +6853,7 @@ h1#grp-admin-title {
     float: left;
     padding-left: 0;
     padding-right: 0;
-    border-right: 1px ridge #309bbf;
+    border-right: 0.2px solid #000;
 }
 
 #grp-user-tools>li:first-child {
